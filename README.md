@@ -1,6 +1,6 @@
 
 ![Cover Image](https://github.com/user-attachments/assets/4289cdce-13a3-4362-8f84-4894dfa5beba)
-<h1 align="center">Hi 👋, I'm Aniruddah Biswas</h1>
+<h1 align="center">Hi 👋, I'm Aniruddah Antu</h1>
 <h3 align="center">A passionate frontend Backend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
