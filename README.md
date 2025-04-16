@@ -2,6 +2,8 @@
 ![Cover Image](https://github.com/user-attachments/assets/4289cdce-13a3-4362-8f84-4894dfa5beba)
 <h1 align="center">Hi 👋, I'm Aniruddah Antu</h1>
 <h3 align="center">A passionate frontend Backend developer from Bangladesh</h3>
+<p align = "center"><img src = "https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23FFA550&size=25&center=true&vCenter=true&width=500&height=100&lines=Computer+Science+Engineering+Student;Coding+and+Open+Source+Enthusiast;Always+learning+new+things"></p>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aniruddah-Antu&label=Profile%20views&color=0e75b6&style=flat" alt="Aniruddah-Antu" /> </p>
